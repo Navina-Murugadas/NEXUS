@@ -5,8 +5,7 @@ Greetings! I'm Navina.M, and I am thrilled to present the projects I actively co
 Throughout my internship, I had the privilege of working on projects that pushed the boundaries of Data Science, employing cutting-edge methodologies and technologies. The following are the key projects I've been involved in:
 
 ### Project 1: CREDIT CARD FRAUD TRANSACTION DETECTION
-
-
+This project focuses on fraud detection in credit card transactions using a Decision Tree Classifier. Through exploratory data analysis, feature engineering, and model optimization, it aims to identify and prevent fraudulent activities, providing a secure solution for transaction monitoring.
 GitHub Repository - [Credit Card Fraud Transaction Detection](https://github.com/Navina-Murugadas/NEXUS/tree/main/1%20-%20Credit%20Card%20Fraud%20Transaction%20Detection)
 
 ## Achievements
