@@ -7,7 +7,7 @@ Throughout my internship, I had the privilege of working on projects that pushed
 ### Project 1: CREDIT CARD FRAUD TRANSACTION DETECTION
 
 
-[GitHub Repository - Credit Card Fraud Transaction Detection]()
+GitHub Repository - [Credit Card Fraud Transaction Detection](https://github.com/Navina-Murugadas/NEXUS/tree/main/1%20-%20Credit%20Card%20Fraud%20Transaction%20Detection)
 
 ## Achievements
 During my internship at Nexus, I successfully delivered impactful Data Science solutions by leveraging advanced analytics and machine learning techniques across diverse domains.
